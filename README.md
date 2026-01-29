@@ -1,2 +1,5 @@
 # ConfigurationList-Clist
-This is no description pls read README.md
+Configuration List (cilst) Is format like Plist(properties list) It uses in my own system called Mixis
+It uses for configuration Mixis Bootloader and other copmonents
+This is a format but i think this will be some updates
+Thank You for reading this
