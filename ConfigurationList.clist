@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clist version="1.0">
+<Clist>
+    <ConfigOfClist>
+        <ClistVerson>FULL-Version</ClistVersion>
+        <ABOUT>
+            <NAME>Configuration List(clist)</NAME>
+            <whatisthis>Configuration List IS A FORMAT like PLIST it uses XML syntax, IT uses in Mixis</whatisthis>
+            <!-- PLS dont delete ConfigOfClist -->
+        </ABOUT>
+</Clist>
