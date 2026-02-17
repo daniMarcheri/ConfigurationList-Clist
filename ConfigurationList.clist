@@ -6,8 +6,6 @@
         <ABOUT>
             <NAME>Configuration List(clist)</NAME>
             <whatisthis>Configuration List IS A FORMAT like PLIST it uses XML syntax, IT uses in vivoOS</whatisthis>
-            <!--  you can dont use ConfigOfClist -->
+            <caniuseit>Yes you can use it but this is example clist code it means you can delete ConfigOfClist if you want</caniuseit>
         </ABOUT>
-
 </Clist>
-
