@@ -6,3 +6,10 @@ Thank You for reading this
 #Whats new
 Added exaple
 ConfigOfClist now in /etc/clist/clistconfig.clist this file exist only in vivoOS
+#Where .clist files need to be
+In vivoOS .clist needed to be in /etc/clist/
+In other linux you need to create this folder
+In macOS and Windows you cant use it
+#How to update
+In vivoOS clist updates automaticly in other linux you need to change clistconfig.clost and other files
+DONT DELETE YOUR AND PROGRAMS .clist FILLES
