@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clist version="1.0">
+<clist version="1.1" config="etc/clist/clistconfig.clist">
 <Clist>
-    <ConfigOfClist>
-        <ClistVerson>FULL-Version</ClistVersion>
-        <ABOUT>
-            <NAME>Configuration List(clist)</NAME>
-            <whatisthis>Configuration List IS A FORMAT like PLIST it uses XML syntax, IT uses in vivoOS</whatisthis>
-            <caniuseit>Yes you can use it but this is example clist code it means you can delete ConfigOfClist if you want</caniuseit>
-        </ABOUT>
-</Clist>
+    <EXAMPLE>
+        <directory>/etc/config</directory>
+        <repositories>
+            <1>google.com</1>
+            <2>github.com</2>
+            <3>exaple.com</3>
+        </repositories>
+    </EXAMPLE>
+</clist>
