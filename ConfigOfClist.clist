@@ -5,8 +5,8 @@
         <ClistVerson>1.1</ClistVersion>
         <ABOUT>
             <NAME>Configuration List(clist)</NAME>
-            <whatisthis>Configuration List IS A FORMAT like PLIST it uses XML syntax, IT uses in vivoOS</whatisthis>
+            <whatisthis>Configuration List IS A FORMAT like PLIST it uses XML syntax</whatisthis>
         </ABOUT>
-        </STANDARTCONFIGFILE>/etc/clistconfig.clist</STANDARTCONFIGFILE> <!-- This file exist only in vivoOS-->
+        </STANDARTCONFIGFILE>/etc/clistconfig.clist</STANDARTCONFIGFILE>
         <WHYTHISFILEEXIST>THIS FILE IS COPY OF /etc/clist/clistconfig.clist THIS FILE NEEDED TO BE ONLY IN GITHUB</WHYTHISFILEEXIST>
 </Clist>
