@@ -1,11 +1,10 @@
 # ConfigurationList-Clist
-Configuration List (cilst) Is format like Plist (properties list) It uses in my own system called vivoOS
-It uses for configuration vivoOS Bootloader and other copmonents
+Configuration List (cilst) Is format like Plist (properties list) It uses in my own system called Quokki
 This is a format but i think this will be some updates
 Thank You for reading this
 # Whats new
 Added exaple
-ConfigOfClist now in /etc/clist/clistconfig.clist this file exist only in vivoOS
+ConfigOfClist now in /etc/clist/clistconfig.clist this file exist only in Quokki
 # Where .clist files need to be
 In vivoOS .clist needed to be in /etc/clist/
 In other linux you need to create this folder
