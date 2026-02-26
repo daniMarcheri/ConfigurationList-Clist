@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <clist version="1.1" config="/etc/clist/clistconfig.clist">
-<Clist>
+<clist>
     <EXAMPLE>
         <directory>/etc/config</directory>
         <repositories>
@@ -10,4 +10,3 @@
         </repositories>
     </EXAMPLE>
 </clist>
-
