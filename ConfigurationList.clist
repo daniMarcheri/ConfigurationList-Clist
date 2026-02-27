@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clist version="2" config="/etc/clist/clistconfig.clist">
+<?clist version="2" config="/etc/clist/clistconfig.clist"?>
 <clist>
     <EXAMPLE>
         <directory>/etc/config</directory>
@@ -9,5 +9,10 @@
             <3>exaple.com</3>
         </repositories>
     </EXAMPLE>
+    <EXAMPLE2>
+        <key>is this meme funny?</key>
+            <string>yes</string>
+        <key>is this video long?</key>
+            <value>yea this is top 10 longest video in the world</value>
+    </EXAMPLE2>
 </clist>
-
