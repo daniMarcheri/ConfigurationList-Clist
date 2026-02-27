@@ -2,22 +2,22 @@
 <clist version="2" config="/etc/clist/clistconfig.clist">
 <clist>
     <ConfigOfClist>
-        <ClistVerson>2</ClistVersion>
+        <ClistVersion>2</ClistVersion>
         <ABOUT>
             <NAME>Configuration List(clist)</NAME>
             <whatisthis>Configuration List IS A FORMAT like PLIST it uses XML syntax</whatisthis>
         </ABOUT>
-        </STANDARTCONFIGFILE>/etc/clistconfig.clist</STANDARTCONFIGFILE>
+        <STANDARTCONFIGFILE>/etc/clistconfig.clist</STANDARTCONFIGFILE>
         <modes>
             <mode1>
                 <key>parametr</key>
                     <string>this is a text in parametr</string>
-            <mode1>
+            </mode1>
             <mode2>
                 <key>parametr</key>
                     <value>can be 1,2,3 or 1B4H5 or text like string</value>
             </mode2>
             <mode3>standart xml</mode3>
-        <modes>
+        </modes>
     </ConfigOfClist>
 </clist>
