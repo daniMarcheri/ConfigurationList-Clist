@@ -6,5 +6,5 @@ Thank You for reading this.
 Added exaple.
 ConfigOfClist now in /etc/clist/clistconfig.clist
 # Where .clist files need to be
-In Linux .clist needed to be in /etc/clist/
-In macOS and Windows you cant use it.
+.clist needed to be in /etc/clist/
+You can aslo put it into your folders like /home/yourname/.clist/yourclistfile.clist
