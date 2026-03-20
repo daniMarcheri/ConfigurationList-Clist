@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?clist version="2" config="/etc/clist/clistconfig.clist"?>
+<?clist version="2"?>
 <clist>
     <EXAMPLE>
         <directory>/etc/config</directory>
