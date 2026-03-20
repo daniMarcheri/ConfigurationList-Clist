@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<clist version="2" config="/etc/clist/clistconfig.clist">
+<clist version="2">
 <clist>
     <ConfigOfClist>
         <ClistVersion>2</ClistVersion>
@@ -7,14 +7,13 @@
             <NAME>Configuration List(clist)</NAME>
             <whatisthis>Configuration List IS A FORMAT like PLIST it uses XML syntax</whatisthis>
         </ABOUT>
-        <STANDARTCONFIGFILE>/etc/clistconfig.clist</STANDARTCONFIGFILE>
         <modes>
             <mode1>
                 <key>parametr</key>
                     <string>this is a text in parametr</string>
             </mode1>
             <mode2>
-                <key>parametr</key>
+                <key>parameter</key>
                     <value>can be 1,2,3 or 1B4H5 or text like string</value>
             </mode2>
             <mode3>standart xml</mode3>
